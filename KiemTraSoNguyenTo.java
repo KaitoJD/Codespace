@@ -1,6 +1,5 @@
 /* 
     Kiem tra so nguyen nhap vao tu ban phim co phai so nguyen to hay khong
-    In ra YES neu no la so nguyen to, nguoc lai in ra NO
     Do phuc tap thuat toan O(sqrt(n))
 */
 
