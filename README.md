@@ -1,4 +1,3 @@
-# Codespace
-NguyeenNS's Playground
+# Optimization
 
-Nơi lưu trữ những thứ xàm xí của Nguyên trên con đường làm chủ giải thuật.
+Nơi tớ lưu những kỹ thuật lập trình giúp tối ưu thời gian thực thi cho một bài toán nào đó.
