@@ -8,9 +8,9 @@
 - Tài liệu học Java (Thuộc sỡ hữu của 28Tech) và tài liệu giải thuật sử dụng Java.<br>
 - Một vài ghi chú nhỏ của mình về một chủ đề nào đó (mà mình hay quên ._.)<br>
 
-Mình tạo ra repo này để theo dõi tiến trình học tập của bản thân cũng như giúp các bạn có một nguồn tài liệu nhỏ để có thể tham khảo thêm (Dù thực tế mình nghĩ repo này không có nhiều giá trị tham khảo mấy do nó nhìn thiếu chuyên nghiệp quá). Mình cũng mong tìm được một vài bạn học cùng để có thêm động lực cũng như giúp mình đưa ra đánh và nhận xét nhằm cải thiện tính chuyên nghiệp của repo này.<br>
+Mình tạo ra repo này để theo dõi tiến trình học tập của bản thân cũng như giúp các bạn có một nguồn tài liệu nhỏ để có thể tham khảo thêm (Dù thực tế mình nghĩ repo này không có nhiều giá trị tham khảo mấy do nó nhìn thiếu chuyên nghiệp quá). Mình cũng mong tìm được một vài bạn học cùng để có thêm động lực cũng như giúp mình đưa ra đánh và nhận xét nhằm cải thiện repo này.<br>
 
-*Lưu ý:<br>- Đây là repo cá nhân không mang tính thương mại.<br>- Mình không thừa nhận quyền sở hữu với tài liệu học Java (Vôn thuộc sở hữu của 28Tech). Nếu như có bất kỳ khiếu nại nào về bản quyền và quyền tác giả, xin liên hệ qua gmail `contact.nguyensynguyen@gmail.com`<br>- Hiện tại repo này chỉ hỗ trợ ngôn ngữ tiếng Việt như là ngôn ngữ chính trong các tài liệu và ghi chú liên quan.*
+*Lưu ý:<br>- Đây là repo cá nhân không mang tính thương mại.<br>- Mình không thừa nhận quyền sở hữu với tài liệu học Java (Vốn thuộc sở hữu của 28Tech). Nếu như có bất kỳ khiếu nại nào về bản quyền và quyền tác giả, xin liên hệ qua gmail `contact.nguyensynguyen@gmail.com`<br>- Hiện tại repo này chỉ hỗ trợ ngôn ngữ tiếng Việt như là ngôn ngữ chính trong các tài liệu và ghi chú liên quan.*
 
 Trân trọng,<br>
 Nguyễn Sỹ Nguyên (NguyeenNS)
