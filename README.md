@@ -1,4 +1,4 @@
-# Cảm ơn bạn đã xem qua chiếc repo nhỏ này :3<br>
+# Cảm ơn bạn đã xem qua chiếc repo nhỏ này<br>
 
 ### VI<br>
 
