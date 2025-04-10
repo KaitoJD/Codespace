@@ -20,6 +20,8 @@ public class Main{
                 } else {
                     return 1;
                 }
+                // Hoac thay vi dung cau dieu kien nhu tren thi ta co the viet
+                // return o1 - o2;
 
             }
         });
