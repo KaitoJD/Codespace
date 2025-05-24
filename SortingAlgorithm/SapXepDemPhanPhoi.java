@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class SapXepDemPhanPhoi {
     public static void countingSort(int[] arr, int n) {
         int k = -1000000000;
         int[] count = new int[1000001];
