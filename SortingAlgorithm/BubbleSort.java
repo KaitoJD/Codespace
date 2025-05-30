@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SapXepNoiBot {
+public class BubbleSort {
     public static void bubbleSort(int[] arr, int arrSize} {
         boolean swapped = true;
         int pos = arrSize - 1;
