@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SapXepChen {
+public class InsertionSort {
     public static void insertionSort(int[] arr, int arrSize){
         for (int i = 0; i < arrSize - 1; i++){
             for (int j = i + 1; j > 0; j--){
