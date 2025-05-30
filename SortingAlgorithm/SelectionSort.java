@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SapXepChon {
+public class SelectionSort {
     public static void selectionSort(int[] arr, int arrSize){
         for (int i = 1; i < arrSize; i++) {
             int minPos = i - 1;
