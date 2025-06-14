@@ -1,31 +1,118 @@
-# Cảm ơn bạn đã xem qua chiếc repo nhỏ này<br>
+# 🌟 Codespace - Java Learning Journey
 
-### VI<br>
+<div align="center">
 
-Để nói đơn giản thì chiếc repo này để mình lưu:<br>
-- Những đoạn code mẫu cho một bài tập lập trình nào đó.<br>
-- Những cách tiếp cận với một số dạng bài nhằm giảm độ phức tạp thời gian của chương trình.<br>
-- Tài liệu học Java (Thuộc sỡ hữu của 28Tech) và tài liệu giải thuật sử dụng Java.<br>
-- Một vài ghi chú nhỏ của mình về một chủ đề nào đó (mà mình hay quên ._.)<br>
+![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/KaitoJD/Codespace?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/KaitoJD/Codespace?style=for-the-badge)
 
-Mình tạo ra repo này để theo dõi tiến trình học tập của bản thân cũng như giúp các bạn có một nguồn tài liệu nhỏ để có thể tham khảo thêm (Dù thực tế mình nghĩ repo này không có nhiều giá trị tham khảo mấy do nó nhìn thiếu chuyên nghiệp quá). Mình cũng mong tìm được một vài bạn học cùng để có thêm động lực cũng như giúp mình đưa ra đánh và nhận xét nhằm cải thiện repo này.<br>
+*"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*
 
-*Lưu ý:<br>- Đây là repo cá nhân không mang tính thương mại.<br>- Mình không thừa nhận quyền sở hữu với tài liệu học Java (Vốn thuộc sở hữu của 28Tech). Nếu như có bất kỳ khiếu nại nào về bản quyền và quyền tác giả, xin liên hệ qua gmail `contact.nguyensynguyen@gmail.com`<br>*
+</div>
 
-Trân trọng,<br>
-Nguyễn Sỹ Nguyên (NguyeenNS)
+## 📖 About This Repository
 
-### EN<br>
+Welcome to my **Codespace** – a carefully curated collection of my Java learning journey! This repository represents more than just code; it's a testament to continuous learning, problem-solving, and the pursuit of programming excellence.
 
-To put it simply, this repository is for me to save:<br>
-- Sample code snippets for a programming exercise.<br>
-- Approaches to certain types of exercises aimed at reducing the time complexity of the program.<br>
-- Java learning materials (Owned by 28Tech) and algorithm materials using Java.<br>
-- A few small notes of mine on a certain topic (that I often forget ._.).<br>
+### 🎯 What You'll Find Here
 
-I created this repository to track my own learning progress as well as to provide you with a small source of material for additional reference (Although, in reality, I think this repo doesn't have much reference value because it looks unprofessional). I also hope to find a few study partners to gain more motivation and help me provide feedback and comments to improve the professionalism of this repo.<br>
+This repository serves as a comprehensive learning hub containing:
 
-*Note:<br> - This is a personal repository and not for commercial use.<br> - I do not claim ownership of the Java learning materials (which are owned by 28Tech). If there are any copyright and authorship complaints, please contact via gmail `contact.nguyensynguyen@gmail.com`<br>*
+- **📝 Sample Code Snippets**: Well-documented examples for various programming challenges and exercises
+- **⚡ Algorithm Optimizations**: Efficient approaches to common problems with focus on time complexity reduction
+- **📚 Learning Materials**: Java fundamentals and advanced concepts (with proper attribution to 28Tech)
+- **🧠 Personal Notes**: Quick references and insights on topics I frequently revisit
+- **🔄 Practice Solutions**: Real-world problem-solving implementations
 
-Respectfully,<br>
-Nguyen Nguyen Sy (NguyeenNS)
+### 🌱 My Learning Philosophy
+
+I believe that **learning is a journey, not a destination**. This repository reflects my commitment to:
+
+- **Continuous Improvement**: Every commit represents growth and learning
+- **Knowledge Sharing**: Making my learning resources available for fellow developers
+- **Best Practices**: Writing clean, readable, and efficient code
+- **Documentation**: Maintaining clear explanations for future reference
+
+## 🚀 Repository Structure
+
+```
+Codespace/
+├── algorithms/          # Algorithm implementations and optimizations
+├── exercises/          # Programming exercise solutions
+├── fundamentals/       # Core Java concepts and examples
+├── notes/             # Personal learning notes and references
+└── resources/         # Additional learning materials
+```
+
+## 🎓 Learning Milestones
+
+- ✅ Java Fundamentals
+- ✅ Object-Oriented Programming
+- ✅ Data Structures & Algorithms
+- 🔄 Advanced Java Concepts (In Progress)
+- 📅 Spring Framework (Planned)
+
+## 💡 How to Use This Repository
+
+### For Beginners:
+1. Start with the `fundamentals/` directory
+2. Review the commented code examples
+3. Try implementing the exercises yourself
+4. Compare your solutions with the provided ones
+
+### For Fellow Learners:
+1. Browse through `algorithms/` for optimization techniques
+2. Check `notes/` for quick concept reviews
+3. Use the search functionality to find specific topics
+4. Feel free to suggest improvements via issues
+
+## 🤝 Contributing
+
+While this is primarily a personal learning repository, I welcome:
+
+- **Bug Reports**: If you find any errors in the code
+- **Suggestions**: Ideas for improvement or additional topics
+- **Discussions**: Share your learning experiences or alternative approaches
+
+Please feel free to open an issue or start a discussion!
+
+## 📜 Important Notes
+
+### Copyright & Attribution
+- This is a **personal, non-commercial** educational repository
+- Java learning materials are properly attributed to **28Tech** where applicable
+- All original content is shared under GPL v3.0 license
+- If you find any copyright concerns, please contact me immediately
+
+### Disclaimer
+- Code examples are for educational purposes
+- Some solutions may not be production-ready
+- Always adapt code to your specific use case and requirements
+
+## 🌟 Acknowledgments
+
+Special thanks to:
+- **28Tech** for providing excellent Java learning materials
+- The **Java community** for continuous inspiration
+- **Open source contributors** who make learning accessible to everyone
+
+## 📬 Connect With Me
+
+- **GitHub**: [@KaitoJD](https://github.com/KaitoJD)
+- **Repository**: [Codespace](https://github.com/KaitoJD/Codespace)
+
+---
+
+<div align="center">
+
+**"The journey of a thousand programs begins with a single Hello World."**
+
+⭐ If this repository helps you in your learning journey, consider giving it a star!
+
+*Happy Coding!* 🚀
+
+</div>
+
+---
+
+*Last Updated: June 2025*
